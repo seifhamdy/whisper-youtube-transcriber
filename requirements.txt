@@ -1,0 +1,4 @@
+youtubesearchpython
+whisper
+pytube
+pandas
